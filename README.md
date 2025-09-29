@@ -45,7 +45,8 @@ This project focuses on:
 
 1. **Clone the repository:**  
 ```bash
-  git clone https://github.com/sahithimeneni06/Walmart-Sales-Forecast.git
+git clone https://github.com/sahithimeneni06/Walmart-Sales-Forecast.git
+
 2. Navigate to the folder:
   cd Walmart-Sales-Forecast
 3. Open the notebook in Jupyter:
